@@ -1,0 +1,1 @@
+https://github.com/emersion/go-imap-proxy/tree/57b7571a6b4a8f0fd68fc1a1c81fedee7183c8fc

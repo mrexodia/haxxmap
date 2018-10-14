@@ -1,0 +1,7 @@
+*.exe
+*.crt
+*.key
+*.pem
+/client/client
+/server/server
+/proxy/proxy
